@@ -12,7 +12,7 @@
 
 所以这个活动适合那种"我马上就要用云服务器，而且用量不小"的场景。如果你只是想随便试试，可能不太划算。
 
-![Vultr 新用户注册赠送活动页面](image/04338612.webp)
+<img width="3414" height="1843" alt="image" src="https://github.com/user-attachments/assets/bbb07045-25a9-4820-9c4f-109fc267d320" />
 
 ---
 
